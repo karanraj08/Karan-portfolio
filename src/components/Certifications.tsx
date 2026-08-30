@@ -16,27 +16,27 @@ export interface Certification {
 const certificationsData: Certification[] = [
   {
     title: "Computer Programming",
-    issuer: "Neo Colab",
+    issuer: "NEO COLAB",
     issuerLogo: "N",
     description: "Demonstrated strong commitment, consistency, and excellence throughout the 150-hour computer programming course.",
     image: "/cert-neocolab.png",
-    link: "https://drive.google.com/file/d/1LeXnpyc-pbVgyNdwtFL3rQdxg4DX8hxb/view?usp=sharing"
+    link: "https://drive.google.com/file/d/13qIVzOuaAJmNKw6LdLakpiXFZIPrHpLa/view?usp=sharing"
   },
   {
     title: "C++ Programming",
-    issuer: "Saylor Academy",
+    issuer: "Saylor Academy awards",
     issuerLogo: "S",
-    description: "Successfully completed CS107: C++ Programming with a 90.00% grade covering data structures, OOP, and algorithms.",
+    description: "Certificate of achievement for CS107: C++ Programming covering data structures, OOP, and algorithms with an 85.00% grade.",
     image: "/cert-cpp.png",
-    link: "https://drive.google.com/file/d/10rfFhW7BuRv3gBql3YIvzqZL1VGBpM6-/view?usp=sharing"
+    link: "https://drive.google.com/file/d/1HP6Vsk-zMn09qSg0F4KVjYXxWEnUFlhH/view?usp=sharing"
   },
   {
-    title: "Leadership Fundamentals",
-    issuer: "EduTech Hub",
-    issuerLogo: "E",
-    description: "Successfully completed comprehensive coursework on leadership fundamentals and team management.",
-    image: "/cert-leadership.png",
-    link: "https://drive.google.com/file/d/1WTvwtJiKq9WSVt_ZsrhdFYPGLC-Pjpgd/view?usp=sharing"
+    title: "Fundamentals of Information Security",
+    issuer: "Infosys Springboard",
+    issuerLogo: "I",
+    description: "Successfully completed the course on Fundamentals of Information Security covering core security principles and defenses.",
+    image: "/cert-infosec.png",
+    link: "https://drive.google.com/file/d/1uJfZimhhnNqT-shGh18eO33Ky7N8yFQ2/view?usp=sharing"
   },
   {
     title: "Introduction to Cyber Security",
@@ -44,7 +44,7 @@ const certificationsData: Certification[] = [
     issuerLogo: "I",
     description: "Completed foundation training in cyber security principles, network defenses, and threat analysis.",
     image: "/cert-cybersecurity.png",
-    link: "https://drive.google.com/file/d/1ufYRdmVBgc4gX69zH8Ke942AQQMYy4iv/view?usp=sharing"
+    link: "https://drive.google.com/file/d/15U5opaieypAkRAj4m5KatsNAa1O0lF5s/view?usp=sharing"
   }
 ];
 

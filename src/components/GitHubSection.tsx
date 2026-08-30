@@ -5,7 +5,7 @@ import { Github } from "lucide-react";
 
 const stats = [
   { label: "Repositories", value: "5+" },
-  { label: "Contributions", value: "3+" },
+  { label: "Contributions", value: "3" },
   { label: "Languages", value: "5+" },
   { label: "Projects", value: "3" },
 ];
@@ -50,7 +50,7 @@ const GitHubSection = () => {
             viewport={{ once: true }}
           >
             <a 
-              href="https://github.com/samirsingh6549-stack" 
+              href="https://github.com/karanraj08" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground font-semibold rounded-lg hover:bg-primary/90 transition-all font-mono shadow-[0_0_15px_hsl(var(--primary)/0.3)] hover:shadow-[0_0_20px_hsl(var(--primary)/0.5)]"

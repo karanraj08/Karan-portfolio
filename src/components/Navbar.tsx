@@ -42,11 +42,11 @@ export default function Navbar() {
             href="#" 
             className="font-display font-black text-2xl tracking-wider text-[#FFD700] hover:scale-105 transition-transform flex items-center gap-2.5 group"
           >
-            <div className="w-8 h-8 rounded-full overflow-hidden border border-primary/40 group-hover:border-primary group-hover:shadow-[0_0_10px_hsl(var(--primary)/0.5)] transition-all bg-white flex items-center justify-center p-0.5">
-              <img src="/logo.png" alt="SKS Logo" className="w-full h-full object-contain" />
+            <div className="w-8 h-8 rounded-full border border-primary/40 group-hover:border-primary group-hover:shadow-[0_0_10px_hsl(var(--primary)/0.5)] transition-all bg-card/80 backdrop-blur-md flex items-center justify-center font-display font-black text-xs text-primary">
+              KR
             </div>
             <span className="text-primary group-hover:drop-shadow-[0_0_15px_hsl(var(--primary)/0.6)] transition-all">
-              SKS
+              KR
             </span>
           </a>
 

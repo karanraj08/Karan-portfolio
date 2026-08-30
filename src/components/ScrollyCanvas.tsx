@@ -19,7 +19,7 @@ export default function ScrollyCanvas() {
       >
         <img
           src="/hero-bg.jpg"
-          alt="Sameer Kumar Singh"
+          alt="Karan Raj"
           className="w-full h-full object-cover object-center filter contrast-110 brightness-95"
         />
       </motion.div>
@@ -39,7 +39,7 @@ export default function ScrollyCanvas() {
               className="font-display font-black text-xl md:text-2xl tracking-wider text-[#FFD700] drop-shadow-md leading-none"
               style={{ textShadow: "0 0 10px rgba(255,215,0,0.3)" }}
             >
-              SKS
+              KR
             </h1>
           </div>
         </div>

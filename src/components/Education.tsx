@@ -8,14 +8,14 @@ const education = [
     degree: "Bachelor of Technology – Computer Science Engineering",
     institution: "Lovely Professional University",
     location: "Jalandhar, Punjab",
-    period: "Aug 2024 – Present",
-    cgpa: "CGPA: 8.4",
+    period: "Aug 2026 – Present",
+    cgpa: "CGPA: 5.00",
     description:
       "Pursuing BTech in CSE. Built a strong foundation in Data Structures, Web Technologies, and Software Development using React, Node.js.",
   },
   {
     degree: "Higher Secondary Education",
-    institution: "Anugrah Narayan College",
+    institution: "M.U.Z. College",
     location: "Patna, Bihar",
     period: "Completed",
     description:

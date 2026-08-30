@@ -4,7 +4,7 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 import { useState, useEffect } from "react";
 
 const roles = [
-  "Full-Stack Developer",
+  "Cybersecurity & Secure Software Development",
   "Software Engineer",
 ];
 
@@ -61,7 +61,7 @@ export default function Overlay() {
         </p>
         <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-[1.1] drop-shadow-[0_4px_25px_rgba(0,0,0,1)] text-center">
           Hi, I'm{" "}
-          <span className="text-gradient">Sameer</span>
+          <span className="text-gradient">Karan</span>
         </h1>
         <div className="text-xl md:text-3xl mb-8 h-10 font-display drop-shadow-[0_4px_15px_rgba(0,0,0,1)]">
           <span className="text-foreground">I'm a </span>

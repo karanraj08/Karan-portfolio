@@ -16,7 +16,7 @@ const jetBrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Portfolio | Sameer Kumar Singh',
+  title: 'Portfolio | Karan Raj',
   description: 'A scrollytelling digital experience by a Creative Developer',
   icons: {
     icon: [

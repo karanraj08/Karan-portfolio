@@ -6,7 +6,7 @@ import { MapPin, GraduationCap, Code } from "lucide-react";
 const infoCards = [
   { icon: MapPin, label: "Location", value: "India" },
   { icon: GraduationCap, label: "Education", value: "BTech CS (2nd Year)" },
-  { icon: Code, label: "Focus", value: "Full Stack Development" },
+  { icon: Code, label: "Focus", value: "Cybersecurity & Secure Dev" },
 ];
 
 const About = () => {
@@ -40,7 +40,7 @@ const About = () => {
                 <div className="w-full h-full rounded-2xl overflow-hidden border border-primary/20">
                   <img
                     src="/profile.jpeg"
-                    alt="Sameer Kumar Singh"
+                    alt="Karan Raj"
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -59,10 +59,10 @@ const About = () => {
             transition={{ duration: 0.6 }}
           >
             <p className="text-foreground leading-relaxed mb-4 text-base">
-              I am a dedicated Full Stack Developer with a strong foundation in both frontend interfaces and backend architecture. I thrive on the challenge of logical problem-solving and system design, constantly pushing the boundaries of what's possible on the web.
+              I am a second-year B.Tech Computer Science student with a strong interest in <span className="text-primary font-semibold">Cybersecurity and Software Development</span>. I enjoy solving programming problems, understanding how systems work, and exploring how applications and networks can be made more secure.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-10 text-base">
-              My expertise lies in developing scalable applications using the <span className="text-primary font-semibold">JavaScript ecosystem, React, Node and MERN stack</span>. I am passionate about continuously sharpening my programming skills and delivering robust, high-performance solutions that create meaningful digital experiences.
+              My current focus is building a strong foundation in <span className="text-primary font-semibold">programming, data structures and algorithms, web development, computer networks, operating systems, databases, and cybersecurity fundamentals</span>. I believe in learning by building projects and continuously improving my technical skills.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               {infoCards.map((card, i) => (
