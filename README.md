@@ -70,7 +70,7 @@ Sameer-portfolio/
    ```
 
 5. **Open your browser:**
-   Navigate to [https://sameerkumarsingh-portfolio.vercel.app/](https://sameerkumarsingh-portfolio.vercel.app/) to view the project locally!
+   Navigate to [https://karan-portfolio-9ndo.vercel.app/](https://karan-portfolio-9ndo.vercel.app/) to view the project locally!
 
 ---
 <div align="center">
