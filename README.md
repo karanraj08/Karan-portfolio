@@ -1,7 +1,7 @@
 <div align="center">
   <img src="public/profile.jpeg" alt="Logo" width="120" height="120" style="border-radius: 50%; object-fit: cover; border: 2px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);">
 
-  # ⚡ Sameer Kumar Singh | Portfolio
+  # ⚡ Karan Raj | Portfolio
 
   <p align="center">
     <strong>A highly interactive, scrollytelling digital experience built by a Creative Full-Stack Developer.</strong>
@@ -74,5 +74,5 @@ Sameer-portfolio/
 
 ---
 <div align="center">
-  <i>Built with ❤️ by <a href="https://github.com/samirsingh6549-stack">Sameer Kumar Singh</a></i>
+  <i>Built with ❤️ by <a href="https://github.com/samirsingh6549-stack">Karan Raj</a></i>
 </div>
